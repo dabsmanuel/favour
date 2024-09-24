@@ -174,9 +174,4 @@ export const reasons = [
     image: fave8
   },
 
-  {
-    id: 29,
-    text: "E NEVER FINISH O, oya read part two here www.all-about-favour.netlify.app. Copy the link",
-    image: fave8
-  },
 ];
